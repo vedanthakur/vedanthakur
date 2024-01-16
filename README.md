@@ -8,8 +8,7 @@ Backend development is my jam, especially with Laravel. But I'm not just stuck i
 
 ## Connect with me:
 
-- LinkedIn: https://linkedin.com/in/vedanthakur
-- Stack Overflow: https://stackoverflow.com/users/vedanthakur
+- LinkedIn: [Vedant Thakur](https://linkedin.com/in/vedanthakur)
 
 ## Technical Expertise:
 
@@ -45,11 +44,9 @@ Backend development is my jam, especially with Laravel. But I'm not just stuck i
 
 
 ## Tools:
-
 - Visual Studio Code
 - Visual Studio
 - XAMPP
 - MySQL
 - Firebase
 - Android Studio
-
