@@ -19,11 +19,6 @@ Backend development is my jam, especially with Laravel. But I'm not just stuck i
 - Tailwind (CSS),
 - .NET Framework (Visual Basic)
 
-### Currently Learning: 
-- React JS
-- Node JS
-- React Native
-
 ## Languages:
 
 ### Proficient: 
@@ -37,16 +32,3 @@ Backend development is my jam, especially with Laravel. But I'm not just stuck i
 - SQL
 - HTML
 - CSS
-
-### Currently Learning: 
-- Go
-- Kotlin
-
-
-## Tools:
-- Visual Studio Code
-- Visual Studio
-- XAMPP
-- MySQL
-- Firebase
-- Android Studio
