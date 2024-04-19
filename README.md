@@ -13,15 +13,11 @@ Backend development is my jam, especially with Laravel. But I'm not just stuck i
 ## Technical Expertise:
 
 ## Frameworks:
-
-### Proficient: 
 - Laravel (PHP, Blade)
 - Tailwind (CSS),
 - .NET Framework (Visual Basic)
 
 ## Languages:
-
-### Proficient: 
 - C
 - C++
 - Visual Basic
