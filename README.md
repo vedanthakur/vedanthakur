@@ -14,6 +14,8 @@ Backend development is my jam, especially with Laravel. But I'm not just stuck i
 
 ## Frameworks:
 - Laravel (PHP, Blade)
+- Node / Express JS
+- React
 - Tailwind (CSS),
 - .NET Framework (Visual Basic)
 
